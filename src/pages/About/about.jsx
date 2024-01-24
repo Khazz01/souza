@@ -68,6 +68,7 @@ function About(){
               <span class="visually-hidden">Next</span>
             </button>
           </div>
+              </div>
           </Col>
           </Row>
 
