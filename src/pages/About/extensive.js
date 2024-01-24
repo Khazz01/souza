@@ -17,7 +17,7 @@ return (
 </ul>
 
 <!-- Summary -->
-<p>In summary, as a Product Manager, I am responsible for shepherding a product from its conceptual stage through development, launch
+<p>In summary, as a Product Manager, I am responsible for shepherding a product from its conceptual stage through development, launch</p>
           </div>
         
 )
