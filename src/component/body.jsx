@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import ReactDOM from 'react-dom/client';
 import { Container, Row, Col, Carousel } from "react-bootstrap";
-import Head from "./images/Head1.jpg";
+import Head from "./images/Head2.jpg";
 // import {Document, page, pdf, pdfjs} from react-pdf;
 
 import pdf from "./images/Trekkle.pdf";
