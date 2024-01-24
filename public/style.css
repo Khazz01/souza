@@ -144,7 +144,9 @@ html {
 .body-img{
   border-radius: 50%;
 }
-
+ .home-about-header{
+        font-size: 2.5em
+    }
 .body-cert{
   padding-left: 50px;
   padding-top: 5%;
