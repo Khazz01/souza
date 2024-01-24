@@ -27,40 +27,6 @@ function About(){
               <Aboutcard />
             </Col>
 
-            {/* <Col
-              md={6}
-              lg={6}
-              className="About-col">
-    <Carousel className="About-carousel" indicators={false} controls={false}>
-      <Carousel.Item className="Carousel-image">
-      <img
-                src ={AboutHead}
-                alt="about" className="img-fluid img-carousel " 
-                height="450px"/>
-        <Carousel.Caption>
-          <h3>First slide label</h3>
-        </Carousel.Caption>
-      </Carousel.Item>
-      <Carousel.Item className="Carousel-image">
-      <img
-                src ={AboutHead}
-                alt="about" className="img-fluid "
-                height="450px"/>
-        <Carousel.Caption>
-          <h3>Second slide label</h3>
-        </Carousel.Caption>
-      </Carousel.Item>
-      <Carousel.Item className="Carousel-image">
-      <img
-                src ={AboutHead}
-                alt="about" className="img-fluid 
-                "height="450px"/>
-        <Carousel.Caption>
-          <h3>Third slide label</h3>
-        </Carousel.Caption>
-      </Carousel.Item>
-    </Carousel>
-            </Col> */}
             <Col
               md={12}
               lg={6}
@@ -92,15 +58,15 @@ function About(){
                 alt="about" className="img-fluid carousel-image
                 "height="450px"/>
               </div>
-            </div>
-            {/* <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+         
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
               <span class="carousel-control-prev-icon" aria-hidden="true"></span>
               <span class="visually-hidden">Previous</span>
             </button>
             <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
               <span class="carousel-control-next-icon" aria-hidden="true"></span>
               <span class="visually-hidden">Next</span>
-            </button> */}
+            </button>
           </div>
           </Col>
           </Row>
