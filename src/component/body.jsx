@@ -64,7 +64,7 @@ function Body(){
 
           <Row className="body-2">
           <Col md={5} className="home-about-description">
-            <h1 style={{ fontSize: "2.6em" }}>
+            <h1 className="home-about-header" style={{ fontSize: "2.6em" }}>
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
