@@ -64,7 +64,7 @@ function Body(){
 
           <Row className="body-2">
           <Col md={5} className="home-about-description">
-            <h1 className="home-about-header" style={{ fontSize: "2.6em" }}>
+            <h1 className="home-about-header">
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
@@ -72,13 +72,13 @@ function Body(){
               <br />
               <br />As a Product Manager,
               <i>
-                <b className="purple">I define the product's vision. </b>
+                <b className="purple"> I define the product's vision. </b>
               </i>
               <br />
               <br />
-              My role involves a combination of &nbsp;
+              My role involves a combination of
               <i>
-                <b className="purple">strategic planning,cross-functional collaboration </b> and
+                <b className="purple"> strategic planning, cross-functional collaboration </b> and
                 {" "}
                 <b className="purple">
                 customer-centric decision-making.
